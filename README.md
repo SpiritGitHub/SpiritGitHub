@@ -2,149 +2,183 @@
 
 # 👋 Hi, I'm SpiritGitHub
 
-### AI & Big Data Engineer | Full Stack Developer | Software Engineering Graduate
+### AI & Big Data Engineer · Machine Learning · Data Engineering · Full-Stack Development
 
-![Profile Views](https://komarev.com/ghpvc/?username=SpiritGitHub&color=blueviolet&style=flat-square)
+I build **intelligent, data-driven products** that connect machine learning, software engineering, and real-world applications.
+
+<p>
+  <a href="https://github.com/SpiritGitHub"><img src="https://img.shields.io/badge/GitHub-SpiritGitHub-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
+  <a href="https://portfolioap-three.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:spirtismileya@gma.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=SpiritGitHub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 
 </div>
 
-## 🚀 About Me
+---
 
-I am an AI & Big Data Engineer with a Master's degree in Artificial Intelligence and Big Data, and a Bachelor's degree in Software Engineering. I enjoy building smart, scalable, and data-driven systems that combine machine learning, software engineering, and practical business impact.
+## 🧭 About me
 
-- 🎓 Master's in AI & Big Data | Bachelor's in Software Engineering
-- 🔭 Currently developing **ÉnergiVille**: a city management simulation game
-- 🤖 Specializing in **Machine Learning**, **Big Data Processing**, and **Intelligent Systems**
-- 💡 Passionate about **AI/ML**, **Data Engineering**, **Clean Architecture**, and **Scalable Solutions**
-- 🎯 Building innovative products that transform data into real-world value
+I am an **AI & Big Data Engineer** and **Software Engineering graduate** with a strong interest in turning complex data and ideas into useful products.
 
-## 🧠 What I Do
+- 🎓 Master's degree in **Artificial Intelligence & Big Data**
+- 🎓 Bachelor's degree in **Software Engineering**
+- 🤖 Focused on **machine learning, NLP, computer vision, forecasting, and intelligent systems**
+- 🏗️ Experienced in designing **APIs, data pipelines, dashboards, and end-to-end applications**
+- 🌍 Interested in technology that supports **education, local languages, sustainability, and decision-making**
+- 🔭 Currently exploring speech AI, retrieval-augmented generation, reliable QA systems, and MLOps
 
-- Design and deploy AI-powered applications and predictive systems
-- Build data pipelines and analytics workflows for large-scale data
-- Develop full-stack solutions with strong backend and product thinking
-- Create user-centric applications with intuitive interfaces and maintainable code
-- Work across data, software, and infrastructure to bridge technical and business needs
+> I enjoy working across the complete lifecycle: **data → model → API → interface → deployment**.
 
-## 🛠️ Technologies & Tools
+## 🚀 What I build
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+| Area | What I work on |
+| --- | --- |
+| **AI & Machine Learning** | NLP, speech recognition, machine translation, computer vision, deep learning, model evaluation |
+| **Data Engineering** | ETL pipelines, data validation, feature engineering, analytics platforms, scalable processing |
+| **Predictive Systems** | Demand forecasting, temporal backtesting, inventory recommendations, uncertainty and confidence estimation |
+| **Backend & APIs** | FastAPI, Spring Boot, REST APIs, modular architecture, PostgreSQL-backed services |
+| **Data Products** | Streamlit dashboards, React applications, visual analytics, user-oriented interfaces |
+| **Software Engineering** | Clean architecture, MVC, testing, documentation, CI/CD, Docker, maintainable code |
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+## ⭐ Selected projects
 
-### Big Data & Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗣️ [STS Ewe ↔ Français](https://github.com/SpiritGitHub/STS_ewe_fr)
+**Python · FastAPI · Whisper · NLLB · Machine Learning**
 
-### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+An end-to-end speech-to-speech translation project between **Ewe and French**, with a FastAPI backend, STT/MT/TTS modules, dataset tooling, training entry points, evaluation workflows, and a provider-based architecture.
 
-### Data Science & Analytics
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 📈 [Demand Forecasting Platform](https://github.com/SpiritGitHub/demand-forecasting-platform)
+**Python · PyTorch · XGBoost · LightGBM · Prophet · FastAPI · Streamlit · MLflow · Airflow**
 
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+An end-to-end forecasting and replenishment platform for predicting sales at 7, 14, and 30-day horizons. It compares multiple models through temporal backtesting and generates inventory recommendations, safety stock, reorder points, and stockout-risk alerts.
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🇹🇬 [TogoQA](https://github.com/SpiritGitHub/TogoQA)
+**React · FastAPI · PostgreSQL · pgvector · Celery · Redis · Docker**
 
-## 📊 Featured Projects
+A reliable and verifiable question-answering system for educational data from Togo. The project combines full-text and vector search, reranking, source citations, confidence calibration, claim verification, and explicit abstention when evidence is insufficient.
 
-### 🎮 [Manager - ÉnergiVille](https://github.com/SpiritGitHub/Manager)
-**Java** | City management and energy simulation game
-> Build sustainable infrastructure while balancing citizen happiness, resources, and financial stability.
+### 📊 [OpenData Analytics Platform](https://github.com/SpiritGitHub/OpenData-Analytics-Platform)
+**Data Engineering · Analytics · Open Data**
 
-### 📹 [Surveillance System](https://github.com/SpiritGitHub/surveillance_system)
-**Python | Jupyter Notebook** | AI-powered surveillance solution
-> Intelligent monitoring system designed for smart observation and automated analysis.
+A platform designed to explore, analyze, and visualize open data from Togo, with a focus on making public information easier to understand and use.
 
-### 🏥 [TeleMedicine API](https://github.com/SpiritGitHub/teleMedecineApi)
-**Java | Spring Boot** | Healthcare platform backend
-> RESTful API for telemedicine consultations, patient workflows, and healthcare operations.
+### 🔎 [Matplotlib RAG](https://github.com/SpiritGitHub/MatplotlibRag)
+**Python · RAG · Sentence Transformers · BM25 · Chroma · Ollama · Streamlit**
 
-### 📊 [CSV Analyser](https://github.com/SpiritGitHub/csv_analyser)
-**Python** | Data analysis tool
-> A powerful CSV analyzer with data processing and visualization capabilities.
+A local retrieval-augmented assistant that answers questions using the official Matplotlib documentation. It combines document ingestion, chunking, hybrid retrieval, local embeddings, source display, and a Streamlit interface.
 
-### 💰 [Dashboard Budget Personnel](https://github.com/SpiritGitHub/Dashboard_Budget_Personnel)
-**Python** | Personal budget dashboard
-> Interactive dashboard for personal finance and spending management.
+### 🎮 [ÉnergiVille](https://github.com/SpiritGitHub/Manager)
+**Java 21 · JavaFX 21 · Maven · MVC**
 
-### 🏪 [Approvisionnement Spring](https://github.com/SpiritGitHub/approvisionnement-spring)
-**Java | Spring** | Supply chain application
-> Supply management system built with Spring Boot for operations and logistics management.
+A city-management and energy simulation game where players balance infrastructure, energy production, pollution, citizen happiness, population growth, and finances.
+
+### 🎙️ [Ewe ↔ Français Voice Translation](https://github.com/SpiritGitHub/trad_ewe_fr)
+**Python · Flask · Whisper · NLLB-200 · gTTS · SQLite**
+
+A web application combining speech recognition, neural translation, text-to-speech, translation history, and evaluation metrics such as WER, BLEU, and chrF.
+
+### 🛰️ [Surveillance System](https://github.com/SpiritGitHub/surveillance_system)
+**Python · Jupyter Notebook · Computer Vision**
+
+An AI-powered monitoring and analysis project focused on intelligent observation and automated processing of visual data.
 
 ### 💬 [Real-time Chat Application](https://github.com/SpiritGitHub/serveur_web)
-**JavaScript | Node.js** | Live chat platform
-> Real-time messaging application built with modern web technologies.
-> 🔗 [Live Demo](https://chat-chi-henna.vercel.app)
+**JavaScript · Node.js · Web technologies**
 
-### 🏥 [DefiClinique](https://github.com/SpiritGitHub/DefiClinique)
-**HTML | CSS | JavaScript** | Clinical challenge platform
-> Interactive educational project focused on clinical scenarios and decision-making.
+A real-time messaging application for live communication, with a deployed demo available online.
 
-## 📈 GitHub Stats
+<p align="center">
+  <a href="https://chat-chi-henna.vercel.app"><strong>🔗 Open the live chat demo</strong></a>
+</p>
+
+<details>
+<summary>More projects</summary>
+
+- [Fleet Dashboard](https://github.com/SpiritGitHub/fleet_dashboard) — fleet-oriented dashboard project
+- [Dashboard Budget Personnel](https://github.com/SpiritGitHub/Dashboard_Budget_Personnel) — personal finance and spending dashboard
+- [Approvisionnement Spring](https://github.com/SpiritGitHub/approvisionnement-spring) — supply management application with Spring
+- [IntelliSearch-PDF](https://github.com/SpiritGitHub/IntelliSearch-PDF) — intelligent search over PDF documents
+- [DefiClinique](https://github.com/SpiritGitHub/DefiClinique) — interactive clinical challenge platform
+- [BusTracker](https://github.com/SpiritGitHub/BusTracker) — transportation and tracking project
+- [OurBookStore](https://github.com/SpiritGitHub/OurBookStore) — bookstore application
+- [Portfolio](https://github.com/SpiritGitHub/portfolio1) — portfolio website
+
+</details>
+
+## 🛠️ Technologies
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sql,r,bash,powershell" alt="Languages">
+</p>
+
+### AI, Data & Scientific Computing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI technologies">
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+</p>
+
+### Backend, Frontend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,react,flutter,postgres,mongodb,redis" alt="Backend frontend and databases">
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,linux,vscode" alt="Cloud DevOps and tools">
+</p>
+
+## 🧩 Engineering principles
+
+- **Build end to end:** connect research, data, software, and product experience.
+- **Measure before optimizing:** use meaningful metrics, validation, and reproducible experiments.
+- **Design for reliability:** document assumptions, validate data, test critical paths, and expose uncertainty.
+- **Keep systems understandable:** prefer modular architecture, clear interfaces, and maintainable code.
+- **Create useful technology:** prioritize concrete impact over technology for its own sake.
+
+## 📊 GitHub activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpiritGitHub&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SpiritGitHub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiritGitHub&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiritGitHub&layout=compact&theme=radical&hide_border=true)
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpiritGitHub&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=SpiritGitHub&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🤝 Let's collaborate
+
+I am open to collaborating on:
+
+- AI and data-driven products
+- NLP, speech AI, and African language technologies
+- Data platforms, forecasting, and analytics
+- Backend and full-stack applications
+- Research prototypes and open-source projects
+- Educational, social-impact, and sustainability-focused technology
+
+## 📫 Contact
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SpiritGitHub&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-## 🤝 Let’s Collaborate
-
-I am always open to:
-
-- AI and data-driven product ideas
-- Full-stack and backend engineering collaborations
-- Research, experimentation, and innovative project work
-- Tech mentoring and knowledge sharing
-
-## 📫 Get In Touch
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SpiritGitHub)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioap-three.vercel.app)
+<a href="https://github.com/SpiritGitHub">GitHub</a> ·
+<a href="https://portfolioap-three.vercel.app">Portfolio</a> ·
+<a href="mailto:spirtismileya@gma.com">Email</a>
 
 </div>
 
@@ -152,8 +186,8 @@ I am always open to:
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💡 Build with curiosity. Ship with purpose.
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Decorative wave">
 
 </div>
