@@ -1,6 +1,6 @@
 <div align="center">
-  
-# 👋 Hi, I'm SpiritGitHub!
+
+# 👋 Hi, I'm SpiritGitHub
 
 ### AI & Big Data Engineer | Full Stack Developer | Software Engineering Graduate
 
@@ -10,13 +10,21 @@
 
 ## 🚀 About Me
 
-AI & Big Data Engineer with a Master's degree in Artificial Intelligence and Big Data, and a Bachelor's in Software Engineering. I specialize in building intelligent, data-driven solutions across multiple domains—from AI-powered surveillance systems to telemedicine platforms and energy management simulations.
+I am an AI & Big Data Engineer with a Master's degree in Artificial Intelligence and Big Data, and a Bachelor's degree in Software Engineering. I enjoy building smart, scalable, and data-driven systems that combine machine learning, software engineering, and practical business impact.
 
-- 🎓 **Master's in AI & Big Data** | Bachelor's in Software Engineering
-- 🔭 Currently working on **ÉnergiVille** - A city management simulation game
-- 🤖 Specialized in **Machine Learning**, **Big Data Processing**, and **Intelligent Systems**
-- 💡 Passionate about **AI/ML**, **Data Engineering**, **Clean Code**, and **Scalable Architectures**
-- 🎯 Building innovative solutions that leverage AI and Big Data to solve real-world problems
+- 🎓 Master's in AI & Big Data | Bachelor's in Software Engineering
+- 🔭 Currently developing **ÉnergiVille**: a city management simulation game
+- 🤖 Specializing in **Machine Learning**, **Big Data Processing**, and **Intelligent Systems**
+- 💡 Passionate about **AI/ML**, **Data Engineering**, **Clean Architecture**, and **Scalable Solutions**
+- 🎯 Building innovative products that transform data into real-world value
+
+## 🧠 What I Do
+
+- Design and deploy AI-powered applications and predictive systems
+- Build data pipelines and analytics workflows for large-scale data
+- Develop full-stack solutions with strong backend and product thinking
+- Create user-centric applications with intuitive interfaces and maintainable code
+- Work across data, software, and infrastructure to bridge technical and business needs
 
 ## 🛠️ Technologies & Tools
 
@@ -71,41 +79,41 @@ AI & Big Data Engineer with a Master's degree in Artificial Intelligence and Big
 
 ### 🎮 [Manager - ÉnergiVille](https://github.com/SpiritGitHub/Manager)
 **Java** | City management and energy simulation game
-> Develop sustainable energy infrastructure while maintaining citizen happiness and financial balance
+> Build sustainable infrastructure while balancing citizen happiness, resources, and financial stability.
 
 ### 📹 [Surveillance System](https://github.com/SpiritGitHub/surveillance_system)
 **Python | Jupyter Notebook** | AI-powered surveillance solution
-> Advanced surveillance system with intelligent monitoring capabilities
+> Intelligent monitoring system designed for smart observation and automated analysis.
 
 ### 🏥 [TeleMedicine API](https://github.com/SpiritGitHub/teleMedecineApi)
 **Java | Spring Boot** | Healthcare platform backend
-> RESTful API for telemedicine consultations and patient management
+> RESTful API for telemedicine consultations, patient workflows, and healthcare operations.
 
 ### 📊 [CSV Analyser](https://github.com/SpiritGitHub/csv_analyser)
 **Python** | Data analysis tool
-> Powerful CSV data analyzer with visualization capabilities
+> A powerful CSV analyzer with data processing and visualization capabilities.
 
 ### 💰 [Dashboard Budget Personnel](https://github.com/SpiritGitHub/Dashboard_Budget_Personnel)
 **Python** | Personal budget dashboard
-> Interactive dashboard for personal finance management and budget tracking
+> Interactive dashboard for personal finance and spending management.
 
 ### 🏪 [Approvisionnement Spring](https://github.com/SpiritGitHub/approvisionnement-spring)
-**Java | Spring** | Supply chain management
-> Supply management application built with Spring Boot
+**Java | Spring** | Supply chain application
+> Supply management system built with Spring Boot for operations and logistics management.
 
 ### 💬 [Real-time Chat Application](https://github.com/SpiritGitHub/serveur_web)
 **JavaScript | Node.js** | Live chat platform
-> Real-time chat application with modern web technologies
+> Real-time messaging application built with modern web technologies.
 > 🔗 [Live Demo](https://chat-chi-henna.vercel.app)
 
 ### 🏥 [DefiClinique](https://github.com/SpiritGitHub/DefiClinique)
 **HTML | CSS | JavaScript** | Clinical challenge platform
-> Interactive clinical education and challenge platform
+> Interactive educational project focused on clinical scenarios and decision-making.
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpiritGitHub&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiritGitHub&layout=compact&theme=radical&hide_border=true)
@@ -117,10 +125,19 @@ AI & Big Data Engineer with a Master's degree in Artificial Intelligence and Big
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SpiritGitHub&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
+
+## 🤝 Let’s Collaborate
+
+I am always open to:
+
+- AI and data-driven product ideas
+- Full-stack and backend engineering collaborations
+- Research, experimentation, and innovative project work
+- Tech mentoring and knowledge sharing
 
 ## 📫 Get In Touch
 
@@ -134,7 +151,7 @@ AI & Big Data Engineer with a Master's degree in Artificial Intelligence and Big
 ---
 
 <div align="center">
-  
+
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
